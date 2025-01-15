@@ -19,5 +19,14 @@ public class Main {
 
         // Esercizio 1
         System.out.println("Esercizio 1: " + Esercizio1.getBooksAbove100(products));
+
+        // Esercizio 2
+        System.out.println("Esercizio 2: " + Esercizio2.getOrdersWithBabyProducts(orders));
+
+        // Esercizio 3
+        System.out.println("Esercizio 3: " + Esercizio3.getBoysProductsWithDiscount(products));
+
+        // Esercizio 4
+        System.out.println("Esercizio 4: " + Esercizio4.getProductsForTier2Customers(orders));
     }
 }
